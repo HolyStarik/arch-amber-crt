@@ -1,0 +1,7 @@
+hyprland
+waybar
+wofi
+swaybg
+cool-retro-term
+python
+ttf-dejavu
